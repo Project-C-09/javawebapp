@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'bharathjavawebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_846D63841C654E149382DF706FE4EE15 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA97110A55B64135AE90B0D8DC3B955A }}
           package: '*.war'
